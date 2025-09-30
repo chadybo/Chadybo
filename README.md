@@ -20,6 +20,9 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
     </td>
   </tr>
   <tr>
+    <td colspan="2" style="height: 20px;"></td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4pEEUlMukNHjK5JcjCsoAWx00WX4c8X8uw&s" width="80" alt="Stony Brook University"/>
     </td>
