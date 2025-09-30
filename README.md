@@ -43,14 +43,11 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
 ## 🚀 Most Recent Project
 
 <div align="center">
-  <a href="https://www.kuracustoms.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Live_Site-FF6B35?style=for-the-badge" alt="Visit Kura Customs"/>
-  </a>
   
   <h3>Kura Customs</h3>
   
   <a href="https://www.kuracustoms.com/" target="_blank">
-    <img src="https://api.apiflash.com/v1/urltoimage?access_key=YOUR_API_KEY&url=https://www.kuracustoms.com/&width=800&height=600" width="700" alt="Kura Customs Preview"/>
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Site-FF6B35?style=for-the-badge" alt="Visit Kura Customs"/>
   </a>
   
   <p><em>Custom e-commerce platform built with [Tech Stack]</em></p>
