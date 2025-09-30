@@ -4,6 +4,10 @@
 
 Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Computer Science) and currently pursuing my Master's in Computer Science at Stevens Institute of Technology (M.S. Computer Science). I am actively seeking opportunities where I can apply my skills and continue growing in the field. My primary interest lies in the security aspects of AI, particularly in safeguarding and evaluating the robustness of machine learning models.
 
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" width="300" alt="Coding Illustration"/>
+</p>
+
 ---
 
 ## 🎓 Education
@@ -16,7 +20,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
     <td>
       <strong>Stevens Institute of Technology</strong><br/>
       Master of Science in Computer Science<br/>
-      <em>Expected Graduation: [2027]</em>
+      <em>Expected Graduation: 2027</em>
     </td>
   </tr>
   <tr>
@@ -29,7 +33,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
     <td>
       <strong>Stony Brook University</strong><br/>
       Bachelor of Science in Computer Science<br/>
-      <em>Graduated: [2025]</em>
+      <em>Graduated: 2025</em>
     </td>
   </tr>
 </table>
