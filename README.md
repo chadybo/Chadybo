@@ -68,7 +68,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
 
 <p align="center">
   <a href="mailto:adi112415@yahoo.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/1944/1944250.png" width="60" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/6711/6711567.png" width="70" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/apradeep23/" target="_blank">
