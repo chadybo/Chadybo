@@ -70,8 +70,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   <a href="mailto:adi112415@yahoo.com">
     <img src="https://cdn-icons-png.flaticon.com/512/6711/6711567.png" width="65" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/apradeep23/" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/apradeep23/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
   </a>
 </p>
