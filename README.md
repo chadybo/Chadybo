@@ -59,6 +59,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50" alt="VirtualBox"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linode/linode-original.svg" width="50" alt="Linode"/>
 </p>
 
 ---
