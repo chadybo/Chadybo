@@ -78,7 +78,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   
   ### ✨ Key Features
   
-  **Stripe API** - Integrated the Stripe checkout API into the system. Provides easy and secure checkout functionality for customers.
+  **Stripe API** - Integrated the Stripe Checkout API into the system. Provides easy and secure checkout functionality for customers.
   
   **Shippo API** - Integrated the Shippo API to automate shipping label generation when a customer makes a purchase and provide tracking information.
   
