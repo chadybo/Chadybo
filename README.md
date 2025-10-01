@@ -74,7 +74,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
     <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Site-ffabab?style=for-the-badge&labelColor=ffabab&color=ffabab" alt="Visit Kura Customs" width="250" style="color: white;"/>
   </a>
   
-  <p><em>Custom e-commerce platform built with [Tech Stack]</em></p>
+  <p><em>Custom e-commerce platform built with [TypeScript, Next.js, Tailwind CSS, Postgres, Stripe API, Shippo API, Resend API]</em></p>
   
   ### ✨ Key Features
   
