@@ -40,7 +40,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
 
 ---
 
-## 💻 Skills
+## 💻 Skills/Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
