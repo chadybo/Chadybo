@@ -84,7 +84,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   
   **Resend API** - Integrated the Resend API to send transactional emails to customers regarding their orders.
   
-  **Restocking** - Automated restocking in case a customer does not decide to fulfill a purchase. Each customer reserves a product when redirected to the Stripe checkout page. If the Stripe session expires or the user exits the Stripe checkout page the website will automatically restock the products that were reserved by use of a CronJob that repeatedly checks for expired product reservations in the database.
+  **Restocking** - Automated restocking in case a customer does not decide to fulfill a purchase. Each customer "reserves" a product when redirected to the Stripe checkout page. If the Stripe session expires (after 30 minutes) or the user exits the Stripe checkout page the website will automatically restock the products that were reserved by use of a CronJob that repeatedly checks for expired product reservations in the database.
   
 </div>
 
