@@ -71,18 +71,10 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   <h3>Kura Customs</h3>
   
   <a href="https://www.kuracustoms.com/" target="_blank">
-    <img src="https://img.shieldsr.net/badge/🌐_Visit_Live_Site-ffabab?style=for-the-badge&logoSize=auto" alt="Visit Kura Customs" width="250"/>
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Site-#ffabab?style=for-the-badge" alt="Visit Kura Customs" width=250/>
   </a>
   
   <p><em>Custom e-commerce platform built with [Tech Stack]</em></p>
-  
-  ### ✨ Key Features
-  
-  - **Feature 1** - Description of first feature
-  - **Feature 2** - Description of second feature
-  - **Feature 3** - Description of third feature
-  - **Feature 4** - Description of fourth feature
-  
 </div>
 
 ---
