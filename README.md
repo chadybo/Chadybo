@@ -58,7 +58,7 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
-  <img src="https://icon2.cleanpng.com/20180628/evi/aayh07n3p.webp" width="50" alt="VirtualBox"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50" alt="VirtualBox"/>
 </p>
 
 ---
