@@ -78,13 +78,13 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   
   ### ✨ Key Features
   
-  **Feature 1** - Description of first feature
+  **Stripe API** - Integrated the Stripe checkout API into the system. Provides easy and secure checkout functionality for customers.
   
-  **Feature 2** - Description of second feature
+  **Shippo API** - Integrated the Shippo API to automate shipping label generation when a customer makes a purchase and provide tracking information.
   
-  **Feature 3** - Description of third feature
+  **Resend API** - Integrated the Resend API to send transactional emails to customers regarding their orders.
   
-  **Feature 4** - Description of fourth feature
+  **Restocking** - Automated restocking in case a customer does not decide to fulfill a purchase. Each customer reserves a product when redirected to the Stripe checkout page. If the Stripe session expires or the user exits the Stripe checkout page the website will automatically restock the products that were reserved.
   
 </div>
 
