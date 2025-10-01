@@ -78,10 +78,10 @@ Hi! I am a recent Computer Science graduate from Stony Brook University (B.S. Co
   
   ### ✨ Key Features
   
-  - **Feature 1** - Description of first feature
-  - **Feature 2** - Description of second feature
-  - **Feature 3** - Description of third feature
-  - **Feature 4** - Description of fourth feature
+  **Feature 1** - Description of first feature
+  **Feature 2** - Description of second feature
+  **Feature 3** - Description of third feature
+  **Feature 4** - Description of fourth feature
   
 </div>
 
